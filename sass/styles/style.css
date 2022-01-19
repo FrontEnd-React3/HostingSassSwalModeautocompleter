@@ -1,0 +1,28 @@
+h1 {
+  color: darkred;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: purple 4px dotted;
+  background: beige;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background: #1e4603;
+  color: beige;
+}
+button:hover {
+  background: #7bd340;
+}
+
+.info {
+  background: gold;
+}
+.info h1 {
+  background: brown;
+}/*# sourceMappingURL=style.css.map */
